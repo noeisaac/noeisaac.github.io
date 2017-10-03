@@ -1,1 +1,18 @@
-
+#content{
+  backgroud-color:white;
+    height:150px;
+  width:40%;
+  float:left;
+}
+#menu{
+background-color:LightGrey;
+  height:200px;
+  width:100px;
+  float:left;
+}
+#container{
+   width:100%;
+}
+#header{
+  background-color:DodgerBlue;
+}
